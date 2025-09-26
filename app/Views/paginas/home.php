@@ -1,5 +1,5 @@
 
-<!-- Página inicial do BetaReuse: categorias, anúncios em destaque e todos os anúncios -->
+<!-- Página inicial do BetaReuse2: categorias, anúncios em destaque e todos os anúncios -->
 <div class="container mx-auto px-6 py-10">
     <!-- Seção de categorias populares -->
     <h2 class="text-2xl font-bold mb-6">Categorias populares</h2>

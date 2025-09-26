@@ -8,7 +8,7 @@
             <button class="w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 rounded-lg text-lg transition mb-2" onclick="alert('Compra realizada com sucesso!')">
                 Comprar agora
             </button>
-            <span class="block text-xs text-gray-500">Pagamento seguro via BetaReuse</span>
+            <span class="block text-xs text-gray-500">Pagamento seguro via BetaReuse2</span>
         </div>
         <div class="md:w-1/2 p-8 flex flex-col justify-center">
             <h1 class="text-2xl font-bold text-gray-900 mb-4"><?= htmlspecialchars($dados['titulo']) ?></h1>
