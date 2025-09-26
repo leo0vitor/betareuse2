@@ -1,0 +1,33 @@
+.category-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+.ad-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+.price-badge {
+    background: linear-gradient(135deg, #ff6b35, #f7931e);
+}
+.featured-badge {
+    background: linear-gradient(135deg, #e74c3c, #c0392b);
+}
+.search-button {
+    background: linear-gradient(135deg, #3498db, #2980b9);
+}
+.search-button:hover {
+    background: linear-gradient(135deg, #2980b9, #1c638d);
+}
+.filter-button:hover {
+    background: #f8f9fa;
+    border-color: #3498db;
+}
+.message-button:hover {
+    background: linear-gradient(135deg, #27ae60, #229954);
+}
+.olx-blue {
+    background: #3498db;
+}
+.olx-dark-blue {
+    background: #2980b9;
+}
